@@ -1,0 +1,14 @@
+x=int(input())
+y=int(input())
+
+if x>0 and y>0:
+  print (1)
+elif x<0 and y>0:
+  print(2)
+elif x<0 and y<0:
+  print(3)
+elif x>0 and y<0:
+  print(4)
+
+#if와 elif 사용법! elif 사용할 때 if와 같은 구간에서 시작.
+#,는 안 먹음. and 로 작성. 
