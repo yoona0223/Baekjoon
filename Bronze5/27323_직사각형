@@ -1,0 +1,5 @@
+A=int(input())
+B=int(input())
+print(A*B)
+
+#줄 바꿔서 입력 받으면 저렇게 따로 INPUT을 쓰는건가...?
