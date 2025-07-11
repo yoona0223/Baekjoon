@@ -16,6 +16,9 @@
 - [5338번 마이크로소프트 로고](https://www.acmicpc.net/problem/5338) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/5338_%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%20%EB%A1%9C%EA%B3%A0)
 - [5522번 카드 게임](https://www.acmicpc.net/problem/5522) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/5522_%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84)
 - [9653번 스타워즈 로고](https://www.acmicpc.net/problem/9653) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/9653_%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88%20%EB%A1%9C%EA%B3%A0)
+- [5339번 콜센터](https://www.acmicpc.net/problem/5339) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/5339_%EC%BD%9C%EC%84%BC%ED%84%B0)
+- [4999번 아!](https://www.acmicpc.net/problem/4999) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/4999_%EC%95%84!)
+- [9654번 나부 함대 데이터](https://www.acmicpc.net/problem/9654) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/9654_%EB%82%98%EB%B6%80%20%ED%95%A8%EB%8C%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
 ## 🥉 Bronze 4
 - [10807번 개수 세기](https://www.acmicpc.net/problem/10807) – [코드 보기](./Bronze4/10807_개수세기.py)
