@@ -1,0 +1,7 @@
+score=0
+for i in range (5):
+  number=int(input())
+  score+=number
+print(score)
+
+#안에 input 받는 변수를 하나 지정하고 그걸 더해나가는 형식으로
