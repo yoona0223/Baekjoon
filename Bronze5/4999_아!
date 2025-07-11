@@ -1,0 +1,10 @@
+J=input()
+R=input()
+A_J=J.count('a')
+A_R=R.count('a')
+if A_J>=A_R:
+  print("go")
+else:
+  print("no")
+
+#text.count('') 이게 문자열에 특정 문자가 몇개있는지 갯수
