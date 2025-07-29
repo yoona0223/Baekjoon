@@ -23,7 +23,7 @@
 - [10170번 NFC West vs North](https://www.acmicpc.net/problem/10170) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/10170_NFC%20West%20vs%20North)
 - [9316번 Hello Judge](https://www.acmicpc.net/problem/9316) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/9316_Hello%20Judge)
 - [27889번 특별한 학교 이름](https://www.acmicpc.net/problem/27889) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/27889_%ED%8A%B9%EB%B3%84%ED%95%9C%20%ED%95%99%EA%B5%90%20%EC%9D%B4%EB%A6%84)
-- [29751번 삼각형](https://www.acmicpc.net/problem/29751) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/9654_%EB%82%98%EB%B6%80%20%ED%95%A8%EB%8C%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
+- [29751번 삼각형](https://www.acmicpc.net/problem/29751) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/29751_%EC%82%BC%EA%B0%81%ED%98%95)
 
 ## 🥉 Bronze 4
 - [10807번 개수 세기](https://www.acmicpc.net/problem/10807) – [코드 보기](./Bronze4/10807_개수세기.py)
