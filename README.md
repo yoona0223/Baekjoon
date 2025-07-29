@@ -19,6 +19,11 @@
 - [5339번 콜센터](https://www.acmicpc.net/problem/5339) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/5339_%EC%BD%9C%EC%84%BC%ED%84%B0)
 - [4999번 아!](https://www.acmicpc.net/problem/4999) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/4999_%EC%95%84!)
 - [9654번 나부 함대 데이터](https://www.acmicpc.net/problem/9654) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/9654_%EB%82%98%EB%B6%80%20%ED%95%A8%EB%8C%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
+- [5717번 상근이의 친구들](https://www.acmicpc.net/problem/5717) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/5717_%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%B9%9C%EA%B5%AC%EB%93%A4)
+- [10170번 NFC West vs North](https://www.acmicpc.net/problem/10170) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/10170_NFC%20West%20vs%20North)
+- [9316번 Hello Judge](https://www.acmicpc.net/problem/9316) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/9316_Hello%20Judge)
+- [27889번 특별한 학교 이름](https://www.acmicpc.net/problem/27889) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/27889_%ED%8A%B9%EB%B3%84%ED%95%9C%20%ED%95%99%EA%B5%90%20%EC%9D%B4%EB%A6%84)
+- [29751번 삼각형](https://www.acmicpc.net/problem/29751) – [코드 보기](https://github.com/yoona0223/Baekjoon/blob/main/Bronze5/9654_%EB%82%98%EB%B6%80%20%ED%95%A8%EB%8C%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
 ## 🥉 Bronze 4
 - [10807번 개수 세기](https://www.acmicpc.net/problem/10807) – [코드 보기](./Bronze4/10807_개수세기.py)
